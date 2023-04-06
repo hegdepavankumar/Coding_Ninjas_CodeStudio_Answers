@@ -37,6 +37,8 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 | 8 | [Find power of a number](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118792/offering/1461391?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Python-_Answers/blob/main/Python_Programs/Question8.py)
 | 9 | [Factorial of a Number](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118792/offering/1461392?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Python-_Answers/blob/main/Python_Programs/Question9.py)
 | 10 | [N-th Fibonacci Number](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118792/offering/1461392?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Python-_Answers/blob/main/Python_Programs/Question10.py)
+| 11 | [Total Prime](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118793/offering/1461401)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Python-_Answers/blob/main/Python_Programs/Question10.py)
+| 12 | [Set Bits](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118793/offering/1461399?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question12.py)
 
 
 
