@@ -39,6 +39,32 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 | 10 | [N-th Fibonacci Number](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118792/offering/1461392?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Python-_Answers/blob/main/Python_Programs/Question10.py)
 | 11 | [Total Prime](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118793/offering/1461401)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Python-_Answers/blob/main/Python_Programs/Question10.py)
 | 12 | [Set Bits](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118793/offering/1461399?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question12.py)
+| 13 | [Print all Divisors of a number](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118793/offering/1461396)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question13.py)
+| 14 | [Function to print Hello World](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118793/offering/1461395?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question14.py)
+| 15 | [First index of element](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118794/offering/1461402)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question15.py)
+| 16 | [Last index of element](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118794/offering/1461403?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question16.py)
+| 17 | [Reverse the array](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118794/offering/1461404?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question17.py)
+| 18 | [Rotate array](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118794/offering/1461405?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question18.py)
+| 19 | [K'th smallest/largest element in an array](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118794/offering/1461406?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question19.py)
+| 20 | [sort012](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118794/offering/1461407?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question20.py)
+| 21 | [Count Words](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118795/offering/1461408)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question21.py)
+| 22 | [All substrings](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118795/offering/1461409?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question22.py)
+| 23 | [Reverse String Word Wise](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118795/offering/1461410?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question23.py)
+| 24 | [Check Permutation](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118795/offering/1461411?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question24.py)
+| 25 | [Remove Consecutive Duplicates](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118795/offering/1461412?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question25.py)
+| 26 | [Reverse Each Word](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118795/offering/1461413?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question26.py)
+| 27 | [Remove character](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118795/offering/1461414?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question27.py)
+| 28 | [Complex Number Class](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118797/offering/1467359)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question28.py)
+| 29 | [Fraction Class](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118797/offering/1467359)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question29.py)
+| 30 | [Print Name and age](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118797/offering/1467363?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question30.py)
+| 31 | [Area of a Rectangle](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118797/offering/1467364?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question31.py)
+| 32 | [Constructor in Square Class](https://www.codingninjas.com/codestudio/guided-paths/basics-of-python/content/118797/offering/1467367?leftPanelTab=0)|[Solution](https://github.com/hegdepavankumar/Coding_Ninjas_CodeStudio_Answers/blob/main/Python_Programs/Question32.py)
+
+
+
+
+
+
 
 
 
