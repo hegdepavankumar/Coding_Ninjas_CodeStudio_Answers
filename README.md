@@ -78,9 +78,9 @@ For Help :- [here](https://github.com/imhegde/hegdepavankumar/issues/1) ! 𝙸 �
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK)
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 ```
            Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo...
